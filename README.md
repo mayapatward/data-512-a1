@@ -7,7 +7,9 @@ Source data license:
 Link to the Wikimedia Foundation REST API terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
 Link to all relevant API documentation:
+
 Legacy pagecounts: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
+
 Pageviews: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
 
